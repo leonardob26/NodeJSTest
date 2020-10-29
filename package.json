@@ -5,7 +5,7 @@
   "author": "First Last <leonardob26job@gmail.com>",
   "main": "index.js",
   "scripts": {
-    "start": "npm start"
+    "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.16.1"
